@@ -4,17 +4,73 @@
     box-sizing: border-box
 }
 body {
-    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .container{
     width: 90vw;
-    height: 100vh;
+    height: 300vh;
     background-color: aliceblue;
     margin: 0 auto;
 }
 .head{
+    height: 80vh;
+    width: 100%;
+    background-image: url(IMAGE/accueil.png);
+    background-size: cover;
+}
+.accueil{
+    height: 50vh;
+    width: 90%;
+    margin: 3rem auto;
+    display: flex;
+    justify-content: center;
+}
+.accueil div{
+    margin: 3rem;
+}
+.accueil h1{
+    font-size: 2rem;
+}
+.accueil p{
+    top: 2rem;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    position: relative;
+}
+.accueil-El1{
+    height: 39vh;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.449);
+    width: 35%;
+}
+.accueil-El2{
+    background-color: #D4C35A;
+    height: 40vh;
+    border-radius: 10px;
+    width: 35%;
+    padding: 1rem;
+}
+.accueil-El2 img{
+    height: 30vh;
+    width: 40%;
+    margin: 0.3rem;
+}
+.el2{
+    height: 170vh;
+    width: 90%;
+    margin: 3rem auto;
+}
+.el2 h1{
+    text-align: center;
+}
+.el2 h2{
+    text-align: center;
+    margin: 1rem;
+}
+.el2 img{
     height: 70vh;
     width: 100%;
-    background-image: url(images/fond.png);
-    background-size: cover;
+}
+.el2 p{
+    font-size: 1.4rem;
 }
