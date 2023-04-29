@@ -1,0 +1,26 @@
+.container {
+    overflow: hidden;
+  /* Photo by mnm.all on Unsplash */
+  /* background: url('https://images.unsplash.com/photo-1518176258769-f227c798150e') center; */
+  background-size: cover;
+  width: 100%;
+  padding: 4rem 2rem;
+
+  /* Grid styles */
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(25%, 4fr));
+}
+
+.card {
+    margin: 1rem auto;
+    padding: 2rem;
+    width: 250px;
+    height: 200px;
+    border: 1px solid red;
+  /* This will result on four columns, each one of 1fr */
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  /* This will result on two rows, each one of 300px */
+  grid-template-rows: 300px 300px;
+  
+}
