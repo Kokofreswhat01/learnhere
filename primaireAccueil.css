@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+body {
+    background-color: brown;
+}
+.container{
+    width: 90vw;
+    height: 100vh;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+.head{
+    height: 70vh;
+    width: 100%;
+    background-image: url(images/fond.png);
+    background-size: cover;
+}
