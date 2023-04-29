@@ -1,0 +1,33 @@
+form{
+    height: 30vh;
+    width: 26.2vw;
+    margin: 20rem auto;
+    background-color: #D4C35A;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    height: 5vh;
+    margin: 0.5rem;
+    width: 25vw;
+}
+button{
+    margin: 0.5rem;
+    height: 6vh;
+    width: 25vw;
+    color: #FFF;
+    background: none;
+    border: 1px solid #FFF;
+}
+button:hover{
+    background-color: #FFF;
+    color: #D4C35A;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
