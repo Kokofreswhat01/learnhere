@@ -58,7 +58,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -84,8 +83,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 60%;
-    margin-top: -10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -112,8 +109,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 25%;
-    margin-top: 10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -139,8 +134,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 60%;
-    margin-top: -10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -167,8 +160,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 60%;
-    margin-top: -10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -195,8 +186,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 60%;
-    margin-top: -10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -223,8 +212,6 @@ button:focus{
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    margin-left: 60%;
-    margin-top: -10%;
     box-shadow: 10px 5px 5px grey;
     border: 1px solid grey;
 	transition: all .3s ease;
@@ -236,3 +223,4 @@ button:focus{
 }
 
 
+ 
