@@ -1,15 +1,44 @@
 *{
     margin: 0;
     padding: 0;
-    text-decoration: none;
     box-sizing: border-box;
 }
 
-.container{
-    background: #3350ef;
-
+body{
+    display: flex;
+    justify-content: center;
+    background: #d4c35a;
 
 }
 
-nav{
+.container{
+    width: 60vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 5px 6px 40px;
+    background: white;
+}
+
+.first{
+    margin-left: 5vw;
+    margin-left: 5vw;
+    font-size: 1.5vw;
+
+}
+
+.som{
+    width: 50vw;
+    height:25vh;
+    background-color: #c2aa9595;
+    border-radius: 3vw;
+}
+
+.h{
+    margin-left: 13vw;
+}
+
+h3{
+    margin-left:6vw;
 }
